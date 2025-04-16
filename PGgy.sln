@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.35906.104 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{139B510C-D787-4609-9FFE-913EF462F2B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGgy.Model", "PGgy.Model\PGgy.Model.csproj", "{5D020C5B-5BEA-40BA-A729-FE5F055E1C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGgy.Enum", "PGgy.Enum\PGgy.Enum.csproj", "{D6D66521-E37A-456E-B9F1-2D52EE618CC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{139B510C-D787-4609-9FFE-913EF462F2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139B510C-D787-4609-9FFE-913EF462F2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139B510C-D787-4609-9FFE-913EF462F2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D020C5B-5BEA-40BA-A729-FE5F055E1C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D020C5B-5BEA-40BA-A729-FE5F055E1C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D020C5B-5BEA-40BA-A729-FE5F055E1C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D020C5B-5BEA-40BA-A729-FE5F055E1C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D66521-E37A-456E-B9F1-2D52EE618CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D66521-E37A-456E-B9F1-2D52EE618CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D66521-E37A-456E-B9F1-2D52EE618CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D66521-E37A-456E-B9F1-2D52EE618CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
